@@ -1,10 +1,17 @@
-.img-container {
+#formWrapper {
     text-align:center;
 }
-
 #container{
     text-align: center;
 }
-form {
-    display:inline-block;
+form{
+    display: inline-block;
+}
+input{
+    margin: 0 auto;
+    text-align:center;
+}
+#search{
+    text-align: center;
+    padding: 0 0 20px 0;
 }
